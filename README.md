@@ -51,5 +51,5 @@ This system is designed to support farmers, agricultural officers, and researche
 
 ---
 
-## 📁 Project Structure
+
 
